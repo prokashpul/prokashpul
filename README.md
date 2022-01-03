@@ -5,11 +5,9 @@
 
 <code><img height="20" src="https://user-images.githubusercontent.com/96217321/147919979-69fbfe9c-24c6-4026-ab0e-2e831ee25735.png">  HTML</code>
 <code><img height="20" src="https://user-images.githubusercontent.com/96217321/147920546-3e5a6087-9f42-42a6-a667-17e31786c846.png"> CSS</code>
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">  JavaScript</code>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">  React.Js</code>
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> Node.Js</code>
 <br/>
 <br/>
