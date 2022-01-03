@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, There !! :pray: :pray: </h1>
 <p align="center">I am <b>:boy: Prokash Pul</b>. I love <strong>programing </strong> & this time I am working as a web developer...</p>
 
-### Language & Skills :
+## Language & Skills :
 
 <code><img height="20" src="https://user-images.githubusercontent.com/96217321/147919979-69fbfe9c-24c6-4026-ab0e-2e831ee25735.png">  HTML</code>
 <code><img height="20" src="https://user-images.githubusercontent.com/96217321/147920546-3e5a6087-9f42-42a6-a667-17e31786c846.png"> CSS</code>
