@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, There !! :pray: :pray: </h1>
-<p align="center">I am <b>:boy: Prokash Pul</b>. I love <strong>programing </strong> & this time I am working as a web developer...</p>
+<p align="center">I am <b>:boy: Prokash Pul</b>. I love <strong>programming </strong> & this time I am working as a web developer...</p>
 
 ## Language & Skills :
 
