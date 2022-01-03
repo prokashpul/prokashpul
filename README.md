@@ -16,3 +16,5 @@
 
 | <a href="https://github.com/prokashpul/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=prokashpul&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="prokashpul's github stats" /></a> | <a href="https://github.com/prokashpul/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prokashpul&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=prokashpul&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
