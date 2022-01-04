@@ -1,7 +1,8 @@
-![image](https://user-images.githubusercontent.com/96217321/148116164-d1b5a330-132a-4df0-b55c-fa62adb17dfe.png)
 
-<h1 align="center"> Hi, There !! :pray: :pray: </h1>
-<p align="center">I am <b>:boy: Prokash Pul</b>. I love <strong>programming </strong> & this time I am working as a web developer...</p>
+
+<h1> Hi, There !! :pray: :pray: </h1>
+<p>I am <b>:boy: Prokash Pul</b>. I love <strong>programming </strong> & this time I am working as a web developer...</p>
+<img src="https://user-images.githubusercontent.com/96217321/148116164-d1b5a330-132a-4df0-b55c-fa62adb17dfe.png">
 
 ## Language & Skills :
 
