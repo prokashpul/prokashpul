@@ -2,7 +2,7 @@
 
 <h1> Hi, There !! :pray: :pray: </h1>
 <p>I am <b>:boy: Prokash Pul</b>. I love <strong>programming </strong> & this time I am working as a web developer...</p>
-<img src="https://media-exp1.licdn.com/dms/image/C4D16AQFSzPkQ5OB5Qw/profile-displaybackgroundimage-shrink_200_800/0/1653716313410?e=1658966400&v=beta&t=MrLznJ937cbmhLUoWFHbfhQ0CcxFf83wMM20XS6vwxA">
+<img src="https://i.ibb.co/R6MXCf7/1.png">
 
 ## Language & Skills :
 
